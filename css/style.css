@@ -1,0 +1,19 @@
+	body{
+	background-image: url("https://mdn.mozillademos.org/files/6457/mdn_logo_only_color.png");
+}
+h1{
+	font-size: 50px;
+	color: blue;
+	margin-top: 25px;
+}
+.movie_list{
+	font-size: 25px;
+	color: black;
+	float: left;
+}
+
+.movie_info {
+	width: 500px;
+	height: 500px;
+	float:right;
+}
